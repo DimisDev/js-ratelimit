@@ -9,7 +9,7 @@ The js script sets timers for each ip every time set and counts the requests inc
 2. Include the js script on the html page you with to rate limit with ```<script src="ratelimit.js"></script>```
 
 
-# Warning: Im still testing it, might not work perfectly
+# Warning: Im still testing it, might not work properly
 Don't rely on it as a basic firewall, I made it in like 10 mins and still not sure if it works properly
 
 
