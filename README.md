@@ -13,4 +13,4 @@ The js script sets timers for each ip every time set and counts the requests inc
 Don't rely on it as a firewall
 
 ## Credits
-- [@DimisSSH](https://github.com/DimisSSH)
+- [@DimisDev](https://github.com/DimisDev)
