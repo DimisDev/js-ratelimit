@@ -12,5 +12,6 @@ The js script sets timers for each ip every time set and counts the requests inc
 # Warning: I made it in like 10 mins, might not work properly
 Don't rely on it as a firewall
 
+
 ## Credits
 - [@DimisDev](https://github.com/DimisDev)
